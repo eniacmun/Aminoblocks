@@ -1,0 +1,1 @@
+Para poder ver los paneles completos en su pantalla, es necesario que seleccione la resolución igual o superior a 800x600
